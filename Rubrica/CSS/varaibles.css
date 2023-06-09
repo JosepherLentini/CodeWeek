@@ -1,0 +1,18 @@
+:root{
+    ---color-main: rgb(84,255,181);
+    ---color-cont: #f0a184;
+    ---color-cont-hover: #F58962;
+    ---color-primary:#a3e8ff;
+    ---color-dark:#0f247e;
+    ---color-red:#ff0041;
+    ---color-text: #ffe8ec;
+    ---color-scrollbar:rgb(28, 255, 157);
+    ---color-scrollbar-hover:rgb(12, 213, 126);
+    ---color-list:rgb(35, 83, 188);
+    ---color-icon:rgb(210, 128, 158);
+    ---color-icon-hover:rgb(210, 104, 143);
+    ---color-list-hover:rgb(45, 255, 164);
+    ---color-grey: #6e6e6e;
+    ---color-contactitle: #F59E6C;
+}
+
